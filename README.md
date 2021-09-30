@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solonique69
 - 👀 I’m interested in game programming
-- 🌱 I’m currently learning web developmeny
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
